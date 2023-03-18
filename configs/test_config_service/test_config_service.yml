@@ -2,5 +2,5 @@ spring:
   application:
     name: test_config_service
 properties:
-	prop_1: arg1
-	prop_2: arg2
+  prop_1: arg1
+  prop_2: arg2
