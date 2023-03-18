@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: test_config_service
+properties:
+  prop_1: ${POSTGRES_USER}-dev
+  prop_2: ${POSTGRES_PASS}-dev
